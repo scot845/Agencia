@@ -1,12 +1,5 @@
-body {
-    margin: 0;
-    padding: 0;
-    background: url(assets/img/login.jpg) no-repeat center top;
-    background-size:cover;
-    font-family: sans-serif;
-    height: 100vh;
-}
-/*.login-box{
+
+.login-box{
     width: 320px;
     height: 420px;
     background: #000;
@@ -79,4 +72,4 @@ body {
 .login-box a:hover {
     color: #fff;
 }
-*/
+
